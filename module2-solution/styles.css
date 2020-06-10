@@ -24,7 +24,7 @@ p
   margin-bottom:20px;
 
   width: 90%;
-  height: 200px;
+  height: 50%;
   padding-left:10px;
   padding-right:10px;
 font-size: 1.25em;}
@@ -34,8 +34,8 @@ font-size: 1.25em;}
   background-color: red;
 
         position:absolute;
-        top:0px;
-        right:0px;
+        top:0%;
+        right:0%;
         width:30%;
         text-align: center;
         border-right:2px solid black;
